@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio_react=self.webpackChunkportfolio_react||[]).push([[7581],{7581:function(e,t,n){n.r(t),n.d(t,{ShapeManager:function(){return o}});var r=n(5671),a=n(3144),u=new Map,o=function(){function e(t){(0,r.Z)(this,e),this._engine=t}return(0,a.Z)(e,[{key:"addShapeGenerator",value:function(e,t){this.getShapeGenerator(e)||u.set(e,t)}},{key:"getShapeGenerator",value:function(e){return u.get(e)}},{key:"getSupportedShapeGenerators",value:function(){return u.keys()}}]),e}()}}]);
+//# sourceMappingURL=7581.7905697d.chunk.js.map
